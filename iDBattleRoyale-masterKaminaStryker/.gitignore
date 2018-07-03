@@ -1,0 +1,19 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+Content/InfinityBladeEffects/*
+Content/SoulCave/*
+Content/SoulCity/*
+Build/*
+Test Build/*
